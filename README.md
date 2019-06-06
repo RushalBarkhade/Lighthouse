@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/VinayChaudhari1996/Lighthouse/blob/master/github.png" width="500" alt="accessibility text">
+   <img src="https://github.com/VinayChaudhari1996/Lighthouse/blob/master/2.png" width="500" >
 </p>
 
 ___
